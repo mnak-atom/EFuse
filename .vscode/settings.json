@@ -1,0 +1,28 @@
+{
+    "files.associations": {
+        "stm32l0xx_hal.h": "c",
+        "adc_event.h": "c",
+        "efuse_log.h": "c",
+        "scheduler.h": "c",
+        "debouncing.h": "c",
+        "comm.h": "c",
+        "state_machine.h": "c",
+        "build_mode.h": "c",
+        "efuse_protection.h": "c",
+        "eeprom.h": "c",
+        "main.h": "c"
+    },
+    "cmake.cmakePath": "cube-cmake",
+    "cmake.configureArgs": [
+        "-DCMAKE_COMMAND=cube-cmake"
+    ],
+    "cmake.preferredGenerators": [
+        "Ninja"
+    ],
+    "stm32cube-ide-clangd.path": "cube",
+    "stm32cube-ide-clangd.arguments": [
+        "starm-clangd",
+        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-gcc.exe",
+        "--query-driver=${env:CUBE_BUNDLE_PATH}/gnu-tools-for-stm32/13.3.1+st.9/bin/arm-none-eabi-g++.exe"
+    ]
+}

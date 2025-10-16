@@ -1,0 +1,225 @@
+{
+	"globsDependent" : 
+	[
+		{
+			"expression" : "D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/*.h",
+			"listDirectories" : true,
+			"paths" : 
+			[
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/adc_event.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/build_mode.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/comm.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/dac_event.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/debouncing.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/eeprom.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/efuse_log.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/efuse_protection.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/main.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/scheduler.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/state_machine.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/stm32l0xx_hal_conf.h",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/stm32l0xx_it.h"
+			]
+		},
+		{
+			"expression" : "D:/Projects/Training/BareMetal/Gen_Code_test/Core/Inc/task_inc/*.h",
+			"listDirectories" : true,
+			"paths" : []
+		},
+		{
+			"expression" : "D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/*.c",
+			"listDirectories" : true,
+			"paths" : 
+			[
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/adc_event.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/comm.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/dac_event.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/debouncing.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/eeprom.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/efuse_protection.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/main.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/scheduler.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/state_machine.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/stm32l0xx_hal_msp.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/stm32l0xx_it.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/syscalls.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/sysmem.c",
+				"D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/system_stm32l0xx.c"
+			]
+		},
+		{
+			"expression" : "D:/Projects/Training/BareMetal/Gen_Code_test/Core/Src/task_src/*.c",
+			"listDirectories" : true,
+			"paths" : []
+		}
+	],
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/4.0.1/CMakeSystem.cmake"
+		},
+		{
+			"path" : "cmake/gcc-arm-none-eabi.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/4.0.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/4.0.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Debug/CMakeFiles/4.0.1/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/AshwinKashyap/AppData/Local/stm32cube/bundles/cmake/4.0.1+st.3/share/cmake-4.0/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"path" : "cmake/stm32cubemx/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "D:/Projects/Training/BareMetal/Gen_Code_test/build/Debug",
+		"source" : "D:/Projects/Training/BareMetal/Gen_Code_test"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}
